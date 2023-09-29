@@ -52,5 +52,5 @@ You can reach out to me via email at himdhi2003@gmail.com . Feel free to connect
 
 If you have any comments or suggestions, please provide your feedback using the contact form.
 
-I appreciate your interest in my portfolio!
+Your visit to my portfolio is like a burst of confetti at a celebration. Thanks for being here and exploring my work! 🎉
 
