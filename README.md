@@ -8,7 +8,8 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 <br>
 ![CodeSize](https://img.shields.io/github/languages/code-size/HimanshuDhingra2003/Portfolio.svg?style=flat) &nbsp;
 ![Languages](https://img.shields.io/github/languages/count/HimanshuDhingra2003/WebDev26Projects.svg) &nbsp;
-![Repository-Size](https://img.shields.io/github/repo-size/HimanshuDhingra2003/WebDev26Projects.svg)
+![Repository-Size](https://img.shields.io/github/repo-size/HimanshuDhingra2003/WebDev26Projects.svg) &nbsp;
+![Last-Commit](https://img.shields.io/github/last-commit/HimanshuDhingra2003/Portfolio.svg)
 
 
 
