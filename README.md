@@ -12,7 +12,8 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 ![Last-Commit](https://img.shields.io/github/last-commit/HimanshuDhingra2003/Portfolio.svg) &nbsp;
 ![Repo-Age](https://img.shields.io/badge/created-2023-blue.svg) <br>
 [![HTML](https://img.shields.io/badge/HTML-Logo-green?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
-[![CSS](https://img.shields.io/badge/CSS-Logo-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 
 # Link
