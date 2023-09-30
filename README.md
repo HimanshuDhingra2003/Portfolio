@@ -13,7 +13,8 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 ![Repo-Age](https://img.shields.io/badge/created-2023-blue.svg) <br>
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
 [![](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JS](https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 
 
