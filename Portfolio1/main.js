@@ -1,8 +1,47 @@
-const header = document.querySelector("header");
+// Function to handle smooth scrolling
+function smoothScroll(target) {
+  const targetElement = document.querySelector(target);
+  if (targetElement) {
+    window.scrollTo({
+      top: targetElement.offsetTop - header.offsetHeight,
+      behavior: 'smooth',
+    });
+  }
+}
 
-window.addEventListener("scroll", function(){
-    header.classList.toggle("sticky", window.scrollY > 120);
+const header = document.querySelector('header');
+const sections = document.querySelectorAll('section');
+const navItems = document.querySelectorAll('.navlist a');
+
+// Function to add or remove the "sticky" class based on scroll position
+function toggleStickyHeader() {
+  const scrollPosition = window.scrollY;
+  const sectionTop = sections[0].offsetTop; // Assumes the first section determines when to make the header sticky
+
+  if (scrollPosition >= sectionTop) {
+    header.classList.add('sticky');
+  } else {
+    header.classList.remove('sticky');
+  }
+}
+
+window.addEventListener('scroll', toggleStickyHeader);
+window.addEventListener('resize', toggleStickyHeader);
+
+// Function to handle smooth scrolling when links are clicked
+navItems.forEach((item) => {
+  item.addEventListener('click', (e) => {
+    e.preventDefault();
+
+    const target = item.getAttribute('href');
+    navList.classList.remove('active'); // Close the mobile menu if open
+    menuIcon.classList.remove('active');
+
+    // Smooth scroll to the target section
+    smoothScroll(target);
+  });
 });
+
 
 const menuIcon = document.getElementById('menu-icon');
 const navList = document.querySelector('.navlist');
