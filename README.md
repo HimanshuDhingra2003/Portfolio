@@ -10,8 +10,10 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 ![Languages](https://img.shields.io/github/languages/count/HimanshuDhingra2003/WebDev26Projects.svg) &nbsp;
 ![Repository-Size](https://img.shields.io/github/repo-size/HimanshuDhingra2003/WebDev26Projects.svg) &nbsp;
 ![Last-Commit](https://img.shields.io/github/last-commit/HimanshuDhingra2003/Portfolio.svg) &nbsp;
-![Repo-Age](https://img.shields.io/badge/created-2023-blue.svg)
-[![HTML](https://img.shields.io/badge/HTML-Logo-green?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+![Repo-Age](https://img.shields.io/badge/created-2023-blue.svg) <br>
+[![HTML](https://img.shields.io/badge/HTML-Logo-green?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;
+[![CSS](https://img.shields.io/badge/CSS-Logo-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 
 # Link
 [Website link](https://himanshudhingra2003.github.io/Portfolio1/index.html)
