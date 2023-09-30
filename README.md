@@ -7,7 +7,7 @@ Welcome to my portfolio! This portfolio showcases my web development projects, p
 This portfolio is designed to be responsive and user-friendly, ensuring a seamless experience on mobile devices, tablets, and PCs.
 <br>
 ![CodeSize](https://img.shields.io/github/languages/code-size/HimanshuDhingra2003/Portfolio.svg?style=flat) &nbsp; &nbsp;
-![Release-Date]https://img.shields.io/github/release-date/HimanshuDhingra2003/WebDev26Projects.svg
+![Release-Date](https://img.shields.io/github/release-date/HimanshuDhingra2003/WebDev26Projects.svg?style=flat)
 
 
 # Link
