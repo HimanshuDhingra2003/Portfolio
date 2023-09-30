@@ -11,8 +11,7 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 ![Repository-Size](https://img.shields.io/github/repo-size/HimanshuDhingra2003/WebDev26Projects.svg) &nbsp;
 ![Last-Commit](https://img.shields.io/github/last-commit/HimanshuDhingra2003/Portfolio.svg) &nbsp;
 ![Repo-Age](https://img.shields.io/badge/created-2023-blue.svg)
-
-
+![Language-Used]( https://img.shields.io/badge/logo-html-blue?logo=html)
 
 # Link
 [Website link](https://himanshudhingra2003.github.io/Portfolio1/index.html)
