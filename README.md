@@ -1,4 +1,4 @@
-# My Portfolio
+# My Portfolio  
 
 Welcome to my portfolio! This portfolio showcases my web development projects, provides information about responsiveness, theming, and includes a contact form.
 
@@ -22,7 +22,7 @@ This portfolio is designed to be responsive and user-friendly, ensuring a seamle
 # Link
 [Website link](https://himanshudhingra2003.github.io/Portfolio1/index.html)
 
-## Themes
+## Theme
 Theme of the portfolio is in dark blue, black and text in red theme and all icons in red theme and hover effect is
 also in red
 ## Projects
