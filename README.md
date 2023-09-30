@@ -20,7 +20,7 @@ Explore my projects below:
   - Description: This Search Engine is made using unsplash api. 
   - Hosted Project: [Link](https://himanshudhingra2003.github.io/Image_search_engine/index.html)
   - GitHub Repository: [Link](https://github.com/HimanshuDhingra2003/WebDev26Projects/tree/main/Project26/Project%2026)
-  -  GitHub Repository Stars: ![GitHub stars](https://img.shields.io/github/stars/HimanshuDhingra2003/WebDev26Projects.svg)
+  -  GitHub Repository Stars: ![GitHub stars](https://img.shields.io/github/languages/code-size/HimanshuDhingra2003/WebDev26Projects.svg)
 
 - Project 2 - QR-Generator
   - Description: This will generate QR code  of text and url using qr api.
