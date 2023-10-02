@@ -53,7 +53,7 @@ Explore my projects below:
 
 
 - Project 5 - Weather App
-  - Description: This waether web app will provide weather of the location user entered and also the wind speed and humidity.
+  - Description: This weather web app will provide weather of the location user entered and also the wind speed and humidity.
   - Hosted Project: [Link](https://himanshudhingra2003.github.io/Weather/index.html)
   - GitHub Repository: [Link](https://github.com/HimanshuDhingra2003/WebDev26Projects/tree/main/Project1/Project%201)
 
